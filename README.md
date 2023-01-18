@@ -21,9 +21,13 @@
     Using SQL: create backers table, alter tables to add keys, load backers table
     ![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png)
 
+4. SQl Analysis:
 
-4. 
+   - Retrieve # of backer counts for each live campaign (sort descending order)
+   - Retrieve number of backers for each cf_id (desc sort)
+   - List contacts for all live campaign and pending goal amount
+   - List backers for all live campigns, pledged amount & remaining goal
+  
+  Screenshot of SQL Queries
+![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/ScreenShot3_Deliverable4.png)
 
-
-
-## Analysis
