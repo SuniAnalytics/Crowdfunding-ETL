@@ -13,11 +13,13 @@
       
       ![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/ScreenShot1_Deliverable1.png)
       
-2.
-
+2. Transform & Clean Data
+      Covert cd_id into int and split name as first and last name
    ![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/ScreenShot2_Deliverable2.png)
 
-3.
+3. Prepare Database (Create ERD, Schema and load data)
+  
+    ![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png)
 
 
 4. 
