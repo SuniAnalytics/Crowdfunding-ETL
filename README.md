@@ -18,7 +18,7 @@
    ![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/ScreenShot2_Deliverable2.png)
 
 3. Prepare Database (Create ERD, Schema and load data)
-  
+    Using SQL: create backers table, alter tables to add keys, load backers table
     ![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png)
 
 
