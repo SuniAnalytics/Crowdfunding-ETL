@@ -8,6 +8,10 @@
 
 ## Deliverables
 
-1. 
+1. Extract Data:
+      Extract data from the source file and create data frame
+      
+      ![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/ScreenShot1_Deliverable1.png)
+      
 
 ## Analysis
