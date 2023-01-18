@@ -13,5 +13,15 @@
       
       ![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/ScreenShot1_Deliverable1.png)
       
+2.
+
+   ![](https://github.com/SuniAnalytics/Crowdfunding-ETL/blob/main/ScreenShot2_Deliverable2.png)
+
+3.
+
+
+4. 
+
+
 
 ## Analysis
